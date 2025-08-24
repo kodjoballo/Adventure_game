@@ -80,4 +80,6 @@ Add colored text for choices and outcomes
 
 ### 6. Code source below
 
+[code_source](https://github.com/kodjoballo/Adventure_game/blob/main/adventure_game.py)
+
 
