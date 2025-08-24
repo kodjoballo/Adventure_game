@@ -12,9 +12,11 @@ The game loads its storyline from a `story.json` file, allowing flexible branchi
 
 ### 1. Ensure you have Python 3 installed
 Check with:
-```bash
+```js
 python --version
 
+
+```
 
 Either run the code via cmd while being in the directory with python.exe advendure_game.py or using an interpreter
 
@@ -27,17 +29,18 @@ Either run the code via cmd while being in the directory with python.exe advendu
 
 
 ### 2. File structure
-
+```js
 adventure_game/
 │
 ├── adventure_game.py          # main Python script
 ├── data/story.json       # JSON file with story nodes & branching
 └── assets/
+```
 
 ### 3. 📖 Story JSON Format
 
 The story.json file contains the branching story structure.
-
+```js
 Example:
 
 {
@@ -52,6 +55,7 @@ Example:
     "B": "LOSE"
   }
 }
+```
 
 ### 4. 📚 Concepts Used
 
