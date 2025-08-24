@@ -1,0 +1,526 @@
+{
+    "1": {
+        "text": "A cloaked stranger begs shelter. Let him in (A) or refuse (B)? :",
+        "A": 2,
+        "B": 3
+    },
+    "2": {
+        "text": "He drips water on your map room. Offer dry clothes (A) or ignore (B)? :",
+        "A": 4,
+        "B": 5
+    },
+    "3": {
+        "text": "You slam the door; lightning hits a nearby oak. Investigate (A) or stay inside (B)? :",
+        "A": 6,
+        "B": 7
+    },
+    "4": {
+        "text": "In gratitude he reveals a broken compass. Inspect it (A) or set it aside (B)? :",
+        "A": 8,
+        "B": 9
+    },
+    "5": {
+        "text": "He eyes your fireplace hungrily. Share soup (A) or send him to the guest room (B)? :",
+        "A": 10,
+        "B": 11
+    },
+    "6": {
+        "text": "Under the oak you find a glowing sigil. Touch it (A) or mark it in a journal (B)? :",
+        "A": 12,
+        "B": 13
+    },
+    "7": {
+        "text": "Staying inside, you hear hoofbeats. Peek through shutters (A) or bar the door (B)? :",
+        "A": 14,
+        "B": 15
+    },
+    "8": {
+        "text": "The compass needle spins wildly. Shake it (A) or press the cracked glass (B)? :",
+        "A": 16,
+        "B": 17
+    },
+    "9": {
+        "text": "You tuck the compass away. Later it buzzes. Retrieve it (A) or ignore (B)? :",
+        "A": 18,
+        "B": 19
+    },
+    "10": {
+        "text": "The soup warms him up; he offers a silver key. Accept (A) or refuse gifts (B)? :",
+        "A": 20,
+        "B": 21
+
+
+    },
+
+
+   "11": {
+        "text": "Guest room creaks; he mutters spells. Eavesdrop (A) or give privacy (B)? :",
+        "A": 22,
+        "B": 23
+    },
+    "12": {
+        "text": "Touching sigil: you see a vision of a castle gate. Approach gate (A) or return home (B)? :",
+        "A": 24,
+        "B": 25
+    },
+    "13": {
+        "text": "Marking it triggers a rumble; a tunnel opens. Enter (A) or report to town guard (B)? :",
+        "A": 26,
+        "B": 27
+    },
+    "14": {
+        "text": "Through shutters: riders in armor flash badges. Signal them (A) or stay hidden (B)? :",
+        "A": 28,
+        "B": 29
+    },
+    "15": {
+        "text": "You bar the door; a loud knock. Open (A) or pretend no one’s home (B)? :",
+        "A": 30,
+        "B": 31
+    },
+    "16": {
+        "text": "Shaking compass: a gem dislodges. Keep gem (A) or hand to stranger (B)? :",
+        "A": 32,
+        "B": 33
+    },
+    "17": {
+        "text": "Pressing glass shows a map of secret catacombs. Ask stranger to explain (A) or research alone (B)? :",
+        "A": 34,
+        "B": 35
+    },
+    "18": {
+        "text": "Compass vibrates toward the cellar. Follow (A) or stay in lounge (B)? :",
+        "A": 36,
+        "B": 37
+    },
+    "19": {
+        "text": "Ignoring buzz, lights flicker. Check fuse box (A) or light candles (B)? :",
+        "A": 38,
+        "B": 39
+    },
+    "20": {
+        "text": "Accept key; he says “fits the Storm Tower.” Question him (A) or head to tower (B)? :",
+        "A": 40,
+        "B": 41
+
+
+    },
+
+    "21": {
+        "text": "Refusing key, he keeps it but looks hurt. Apologize (A) or stay firm (B)? :",
+        "A": 42,
+        "B": 43
+    },
+    "22": {
+        "text": "Eavesdropping: hear “guardian awakens.” Burst in (A) or keep listening (B)? :",
+        "A": 44,
+        "B": 45
+    },
+    "23": {
+        "text": "You leave him; a lullaby drifts out. Fall asleep (A) or brew coffee (B)? :",
+        "A": 46,
+        "B": 47
+    },
+    "24": {
+        "text": "At gate: gargoyles judge you. Present compass (A) or sigil mark (B)? :",
+        "A": 48,
+        "B": 49
+    },
+    "25": {
+        "text": "Returning home: town crier accuses you of witchcraft. Defend yourself (A) or flee (B)? :",
+        "A": 50,
+        "B": 51
+    },
+    "26": {
+        "text": "Tunnel leads to crystal bridge. Cross (A) or collect samples (B)? :",
+        "A": 52,
+        "B": 33
+    },
+    "27": {
+        "text": "Guards scoff but follow you. Lead them in (A) or let them go first (B)? :",
+        "A": 54,
+        "B": 55
+    },
+    "28": {
+        "text": "Signaling riders: they’re Inquisitors. Ask for help (A) or deny them entry (B)? :",
+        "A": 56,
+        "B": 57
+    },
+    "29": {
+        "text": "Hidden, you overhear “artifact hunt.” Shadow them (A) or lock upstairs window (B)? :",
+        "A": 58,
+        "B": 59
+    },
+    "30": {
+        "text": "You open door: royal messenger seeks refuge. Allow (A) or refuse (B)? :",
+        "A": 60,
+        "B": 61
+
+
+    },
+
+    "31": {
+        "text": "Pretending empty, messenger leaves a sealed letter. Read (A) or burn (B)? :",
+        "A": 62,
+        "B": 63
+    },
+    "32": {
+        "text": "Keeping gem; it glows with heat. Embed in ring (A) or store in safe (B)? :",
+        "A": 64,
+        "B": 65
+    },
+    "33": {
+        "text": "Handing gem over, stranger says “You’re worthy.” Trust him (A) or demand answers (B)? :",
+        "A": 66,
+        "B": 67
+    },
+    "34": {
+        "text": "Ask stranger: he names Eclipsed King. Swear loyalty (A) or refuse (B)? :",
+        "A": 68,
+        "B": 69
+    },
+    "35": {
+        "text": "Research alone: dusty tome warns “key plus compass opens end.” Destroy compass (A) or keep exploring (B)? :",
+        "A": 70,
+        "B": 71
+    },
+    "36": {
+        "text": "Cellar door unlocks itself. Descend (A) or fetch lantern (B)? :",
+        "A": 72,
+        "B": 73
+    },
+    "37": {
+        "text": "Staying lounge; window shatters. Fight intruder (A) or hide (B)? :",
+        "A": 74,
+        "B": 75
+    },
+    "38": {
+        "text": "At fuse box; wires sparking green. Cut main power (A) or try reset (B)? :",
+        "A": 76,
+        "B": 77
+    },
+    "39": {
+        "text": "Candles reveal hidden runes on walls. Trace rune (A) or erase (B)? :",
+        "A": 78,
+        "B": 79
+    },
+    "40": {
+        "text": "Question him: he admits he’s the tower’s keeper. Accept partnership (A) or arrest him (B)? :",
+        "A": 80,
+        "B": 81
+
+
+    },
+
+    "41": {
+        "text": "Head to tower solo. Storm rages. Use key (A) or pick lock (B)? :",
+        "A": 82,
+        "B": 83
+    },
+    "42": {
+        "text": "Apologize: he smiles and offers a potion. Drink (A) or politely decline (B)? :",
+        "A": 84,
+        "B": 85
+    },
+    "43": {
+        "text": "Stay firm: he pockets key; a shadow passes window. Ask what was that (A) or close curtains (B)? :",
+        "A": 86,
+        "B": 87
+    },
+    "44": {
+        "text": "Burst in: spell explodes. Dodge (A) or counterspell (B)? :",
+        "A": 88,
+        "B": 89
+    },
+    "45": {
+        "text": "Keep listening: phrase “moon at zenith.” Wait till midnight (A) or intervene early (B)? :",
+        "A": 90,
+        "B": 91
+    },
+    "46": {
+        "text": "Fall asleep: dream of crystal stag. Follow stag (A) or wake up (B)? :",
+        "A": 92,
+        "B": 93
+    },
+    "47": {
+        "text": "Coffee keeps you awake; thunder knocks out power. Check roof (A) or seal shutters (B)? :",
+        "A": 94,
+        "B": 95
+    },
+    "48": {
+        "text": "Compass impresses gargoyles; gate opens. Enter courtyard (A) or circle walls (B)? :",
+        "A": 96,
+        "B": 97
+    },
+    "49": {
+        "text": "Sigil mark triggers lightning; gate blasts open. Rush in (A) or wait (B)? :",
+        "A": 98,
+        "B": 99
+    },
+    "50": {
+        "text": "Defend in court; judge asks for proof. Show sigil (A) or call stranger witness (B)? :",
+        "A": 100,
+        "B": 70
+
+
+    },
+
+    "51": {
+        "text": "Flee: marsh guards ambush you. Fight (A) or surrender (B)? :",
+        "A": 74,
+        "B": "LOSE"
+    },
+    "52": {
+        "text": "Cross bridge; mid‑way it cracks. Run (A) or crawl carefully (B)? :",
+        "A": 76,
+        "B": 78
+    },
+    "54": {
+        "text": "Lead guards inside; trapdoor shuts behind them. Leave (A) or search exit (B)? :",
+        "A": 80,
+        "B": 77
+    },
+    "55": {
+        "text": "Let guards go first; you hear screams. Follow (A) or seal tunnel (B)? :",
+        "A": 88,
+        "B": 79
+    },
+    "56": {
+        "text": "Ask inquisitors for help; they demand relic. Negotiate (A) or refuse (B)? :",
+        "A": 90,
+        "B": 91
+    },
+    "57": {
+        "text": "Deny entry; they brand you traitor. Escape via roof (A) or fight (B)? :",
+        "A": 92,
+        "B": 74
+    },
+    "58": {
+        "text": "Shadow riders; you see secret map. Steal it (A) or copy quickly (B)? :",
+        "A": 94,
+        "B": 95
+    },
+    "59": {
+        "text": "Lock window; lightning hits hinge, revealing keyhole. Insert silver key (A) or ignore (B)? :",
+        "A": 82,
+        "B": 65
+    },
+    "60": {
+        "text": "Allow messenger; he seeks safe passage. Guide him (A) or hide him (B)? :",
+        "A": 96,
+        "B": 97
+    },
+    "61": {
+        "text": "Refuse; he curses you. Apologize (A) or slam door (B)? :",
+        "A": 84,
+        "B": 75
+
+
+    },
+
+   "62": {
+        "text": "Read letter; decree of royal pardon. Use it (A) or stash (B)? :",
+        "A": 98,
+        "B": 99
+    },
+    "63": {
+        "text": "Burn letter; smoke forms symbols. Inhale (A) or fan away (B)? :",
+        "A": 70,
+        "B": 71
+    },
+    "64": {
+        "text": "Embed gem in ring; it fuses. Wear ring (A) or lock it away (B)? :",
+        "A": 80,
+        "B": 81
+    },
+    "65": {
+        "text": "Store gem; safe turns warm. Open again (A) or leave it (B)? :",
+        "A": 76,
+        "B": 77
+    },
+    "66": {
+        "text": "Trust him; he grants secret password. Note it (A) or memorize then burn note (B)? :",
+        "A": 88,
+        "B": 89
+    },
+    "67": {
+        "text": "Demand answers; he turns hostile. Calm him (A) or draw weapon (B)? :",
+        "A": 90,
+        "B": 91
+    },
+    "68": {
+        "text": "Swear loyalty; you gain shadow cloak. Wear (A) or keep folded (B)? :",
+        "A": 92,
+        "B": 93
+    },
+    "69": {
+        "text": "Refuse; he vanishes leaving dust. Collect dust (A) or vacuum it (B)? :",
+        "A": 94,
+        "B": 95
+    },
+    "70": {
+        "text": "Destroy compass; shards spin, portal opens. Enter portal (A) or seal it (B)? :",
+        "A": 96,
+        "B": 97
+    },
+    "71": {
+        "text": "Keep exploring; compass leads to old observatory. Climb dome (A) or search basement (B)? :",
+        "A": 98,
+        "B": 99
+
+
+    },
+
+    "72": {
+        "text": "Descend cellar; meet crystal‑eyed rat. Feed it (A) or chase it (B)? :",
+        "A": 100,
+        "B": 74
+    },
+    "73": {
+        "text": "Fetch lantern; cellar stairs collapse. Jump (A) or retreat (B)? :",
+        "A": 76,
+        "B": 75
+    },
+    "74": {
+        "text": "Fight scene—win but injured. Bandage (A) or press on (B)? :",
+        "A": 80,
+        "B": 81
+    },
+    "75": {
+        "text": "Hiding; discover secret panel. Open (A) or ignore (B)? :",
+        "A": 82,
+        "B": 83
+    },
+    "76": {
+        "text": "Power cut; ghosts appear. Speak to them (A) or run (B)? :",
+        "A": 84,
+        "B": 85
+    },
+    "77": {
+        "text": "Reset sparks; you’re electrocuted. Cry for help (A) or stand up (B)? :",
+        "A": 86,
+        "B": 87
+    },
+    "78": {
+        "text": "Trace rune; walls shift revealing library. Enter (A) or take book and leave (B)? :",
+        "A": 88,
+        "B": 89
+    },
+    "79": {
+        "text": "Erase rune; ceiling drips acid. Use umbrella (A) or dash out (B)? :",
+        "A": 90,
+        "B": "LOSE"
+    },
+    "80": {
+        "text": "Partnership forged; you reach relic chamber. Use key (A) or offer cloak (B)? :",
+        "A": "WIN",
+        "B": 98
+    },
+    "81": {
+        "text": "Arrest attempt fails; he escapes with relic. Chase (A) or call guards (B)? :",
+        "A": 92,
+        "B": "LOSE"
+
+
+    },
+
+    "82": {
+        "text": "Key turns; tower hums. Step inside (A) or wait (B)? :",
+        "A":"WIN",
+        "B": 99
+    },
+    "83": {
+        "text": "Picking lock triggers dart trap. Duck (A) or shield with cloak (B)? :",
+        "A": 100,
+        "B": "LOSE"
+    },
+    "84": {
+        "text": "Drink potion; you gain night‑vision. Explore attic (A) or go outside (B)? :",
+        "A": 96,
+        "B": 97
+    },
+    "85": {
+        "text": "Decline; he sips it and laughs. Ask why (A) or grab vial (B)? :",
+        "A": 98,
+        "B": 99
+    },
+    "86": {
+        "text": "Ask about shadow; he warns of Wraith. Set wards (A) or ignore (B)? :",
+        "A": 100,
+        "B": 70
+    },
+    "87": {
+        "text": "Close curtains; shadow enters anyway. Confront (A) or escape (B)? :",
+        "A": 88,
+        "B": 79
+    },
+    "88": {
+        "text": "Dodge/counter‑spell success; portal opens. Leap (A) or destroy portal (B)? :",
+        "A": "WIN",
+        "B": 98
+    },
+    "89": {
+        "text": "Fail spell; explosion. Drag stranger out (A) or save yourself (B)? :",
+        "A": 90,
+        "B": "LOSE"
+    },
+    "90": {
+        "text": "Negotiation succeeds; inquisitors ally. Lead raid (A) or double‑cross (B)? :",
+        "A": "WIN",
+        "B": 99
+    },
+    "91": {
+        "text": "Refusal enrages them; siege begins. Hold fort (A) or sneak out (B)? :",
+        "A": 92,
+        "B": 93
+
+
+    },
+
+   "92": {
+        "text": "Roof escape; storm lightning helps you fly (!) Aim for tower (A) or open sky (B)? :",
+        "A": 96,
+        "B": 97
+    },
+    "93": {
+        "text": "Wake up; dream stag stands in room. Touch antlers (A) or bow (B)? :",
+        "A": 98,
+        "B": 99
+    },
+    "94": {
+        "text": "Steal map; gain route to relic. Follow at dawn (A) or immediately (B)? :",
+        "A": 100,
+        "B": 70
+    },
+    "95": {
+        "text": "Copy map; ink glows. Speak words aloud (A) or wash hands (B)? :",
+        "A": 88,
+        "B": 79
+    },
+    "96": {
+        "text": "Courtyard full of statues. Inspect center statue (A) or follow wall shadows (B)? :",
+        "A": "WIN",
+        "B": 100
+    },
+    "97": {
+        "text": "Circling walls; hidden door. Enter (A) or mark for later (B)? :",
+        "A": 98,
+        "B": 99
+    },
+    "98": {
+        "text": "Rush in / use decree / etc.—trap room. Solve puzzle (A) or brute force (B)? :",
+        "A": "WIN",
+        "B": "LOSE"
+    },
+    "99": {
+        "text": "Waiting / stash / bow—time rift appears. Enter (A) or close eyes (B)? :",
+        "A": 100,
+        "B": "LOSE"
+    },
+    "100": {
+        "text": "Final guardian asks riddle. Answer truthfully (A) or lie (B)? :",
+        "A": "WIN",
+        "B": "LOSE"
+    }
+    
+}
